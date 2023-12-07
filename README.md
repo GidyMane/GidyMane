@@ -89,7 +89,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-[![Albert's github stats](https://github-readme-stats.vercel.app/api?username=Albert-Byrone&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Byrone&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
