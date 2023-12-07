@@ -44,7 +44,8 @@
 <br>
 
 <br>
- ### Expertise
+ ###
+ <h3 align="left">🔥   Expertise :</h3>
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Flask-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/drf%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
