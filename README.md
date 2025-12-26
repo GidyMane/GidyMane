@@ -97,7 +97,9 @@ Government-backed enterprise data platform
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/GidyMane/GidyMane/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph" />
+  <img src="https://raw.githubusercontent.com/GidyMane/GidyMane/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph" />
+
+  <!-- <img src="https://github.com/GidyMane/GidyMane/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph" /> -->
 </p>
 
 
