@@ -76,23 +76,13 @@ Government-backed enterprise data platform
 ## 📊 GitHub Analytics (Auto Theme)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=GidyMane&show_icons=true&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=GidyMane&show_icons=true&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=GidyMane&show_icons=true" />
-  </picture>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GidyMane&show_icons=true&hide_border=true&theme=react" alt="Gideon Murage's GitHub stats" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=GidyMane&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=GidyMane&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GidyMane" />
-  </picture>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GidyMane&hide_border=true&theme=react" alt="Gideon Murage's GitHub streak" />
 </p>
 
 ---
@@ -106,9 +96,10 @@ Government-backed enterprise data platform
 
 ## 🐍 Contribution Graph
 
-<img src="https://github.com/GidyMane/GidyMane/blob/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://github.com/GidyMane/GidyMane/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph" />
+</p>
 
----
 
 ## 🧠 Philosophy
 
